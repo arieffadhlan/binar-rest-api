@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Fadhlan, Risa, Renaldy, Rafif, Parousya, Restu",
+  "author": "Fadhlan, Risa, Renaldy, Rafif, Parousia, Restu",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
