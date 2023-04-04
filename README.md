@@ -1,3 +1,4 @@
+Kelas: FSW-1
 Anggota Kelompok:
 - Muhammad Arief Fadhlan
 - Parouisa Octochristian Sipahutar
